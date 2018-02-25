@@ -31,32 +31,48 @@
 
 ## 效果展示
 
+> 注册页面
 ![注册页面](./present/1.png)
 
+> 首页
 ![首页](./present/2.png)
 
+> 工作日程
 ![工作日程](./present/3.png)
 
+> 用户信息
 ![用户信息](./present/4.png)
 
+> 用户信息编辑
 ![用户信息编辑](./present/5.png)
 
+> 用户筛选页面
 ![用户筛选页面](./present/6.png)
 
+> 组织架构
 ![组织架构](./present/7.png)
 
+> 行政流程
 ![行政流程](./present/8.png)
 
+> 流程提交
 ![流程提交](./present/9.png)
 
 
 ## 部署教程
 
-因为是前后端一起开发，需要先部署好后端环境后，再执行npm run dev才能跑起来
-1、安装好mongo数据库后，导入Service目录中的数据备份
-2、在Service目录中cnpm install一下后端需要的依赖
-3、在Service目录中node ./app.js 把后台跑起来
-最后再执行前端的npm install和npm run dev
+> 因为是前后端一起开发，需要先部署好后端环境后，再执行npm run dev才能跑起来
+
+``` bash
+# 安装好mongo数据库后，导入Service目录中的数据备份
+可以使用NoSQLBooster
+
+# 在Service目录中安装后端需要的依赖
+cnpm install
+
+# 在Service目录中把后台跑起来
+node ./app.js
+```
 
 
 ## Build Setup
@@ -88,27 +104,26 @@ npm test
 >├─ README.md // 说明文件  
 >├─ build // webpack打包执行文件  
 >├─ config // webpack打包配置文件  
->├─ code-standards //编码规范
->├─ Service //后端的Api
+>├─ code-standards //编码规范  
+>├─ Service //后端的Api  
 >├─ static // 存放私有系统的公共样式、脚本、图片  
 >│　　│　　├─ css  
 >│　　│　　│　　└─ reset.css // 初始样式  
->│　　│　　├─ fonts //字体 
+>│　　│　　├─ fonts //字体  
 >│　　│　　├─ img // 图片  
 >│　　│　　├─ js  
->│　　│　　│　　└─ jquery.js // jQ库 
->├─ src   
+>│　　│　　│　　└─ jquery.js // jQ库  
+>├─ src  
 >│　　├─ main.js // webpack入口/项目启动入口  
->│　　├─ http.js // axios的拦截器
+>│　　├─ http.js // axios的拦截器  
 >│　　├─ config  
 >│　　│　　├─ index.js // 共有配置文件  
 >│　　├─ router  
 >│　　│　　├─ index.js // 存放路由  
 >│　　├─ views // 视图  
 >│　　│　　├─ views.md  
->│　　├─ vuex // 存放于拆分出来的store.js
->│　　│　　├─ store.js
+>│　　├─ vuex // 存放于拆分出来的store.js  
+>│　　│　　├─ store.js  
 >│　　│　　├─ actions  
 >│　　│　　├─ getters  
 >│　　│　　└─ modules  
-
