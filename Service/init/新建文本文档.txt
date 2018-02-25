@@ -1,0 +1,1 @@
+mongoimport -d personnel -c clients ./init/客户模拟数据.txt --drop

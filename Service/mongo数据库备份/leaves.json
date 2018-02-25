@@ -1,0 +1,3 @@
+{"__v":0,"_id":{"$oid":"5a91527f50798ee0d8f91ba7"},"endtime":"1517932800000","jobid":"100","leavereason":"123","leavetype":"病假","name":"Admin","starttime":"1517760000000","totaltime":"2天"}
+{"__v":0,"_id":{"$oid":"5a91550450798ee0d8f91ba8"},"endtime":"1518019200000","jobid":"100","leavereason":"外出","leavetype":"调休","name":"Admin","starttime":"1517414400000","totaltime":"7天"}
+{"__v":0,"_id":{"$oid":"5a91558350798ee0d8f91ba9"},"endtime":"1519747200000","jobid":"100","leavereason":"123123","leavetype":"婚假","name":"Admin","starttime":"1517414400000","totaltime":"27天"}

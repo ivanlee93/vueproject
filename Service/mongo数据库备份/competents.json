@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5a757e2ef3d99e3dd79e09aa"},"competent":"实习"}
+{"_id":{"$oid":"5a757e2ef3d99e3dd79e09ac"},"competent":"初级"}
+{"_id":{"$oid":"5a757e2ef3d99e3dd79e09ad"},"competent":"高级"}
+{"_id":{"$oid":"5a757e2ef3d99e3dd79e09ae"},"competent":"技术总监"}
+{"__v":0,"_id":{"$oid":"5a804587b8da3f0a4849470d"},"competent":"CEO"}
+{"__v":0,"_id":{"$oid":"5a828d42121b14631c6ee84d"},"competent":"无"}
+{"__v":0,"_id":{"$oid":"5a82a899121b14631c6ee850"},"competent":"系统管理员"}

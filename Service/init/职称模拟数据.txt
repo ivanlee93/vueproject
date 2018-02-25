@@ -1,0 +1,6 @@
+{"competent":"实习"}
+{"competent":"初级"}
+{"competent":"中级"}
+{"competent":"高级"}
+{"competent":"技术总监"}
+{"competent":"CEO"}

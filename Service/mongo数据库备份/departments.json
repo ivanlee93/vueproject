@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09bc"},"department":"研发一部"}
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09bd"},"department":"产品一部"}
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09bf"},"department":"运维部"}
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09c0"},"department":"产品二部"}
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09c1"},"department":"研发二部"}
+{"_id":{"$oid":"5a75c1e4f3d99e3dd79e09be"},"department":"销售部"}
+{"__v":0,"_id":{"$oid":"5a83f870121b14631c6ee853"},"department":"人事部"}
